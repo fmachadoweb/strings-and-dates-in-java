@@ -11,7 +11,7 @@
 
   <h3 align="center">MANIPULAÇÃO DE STRINGS E DATAS EM JAVA</h3>
   
-  <p align="center">Exercício feito em Java onde exibe no resultado final um nome colocado pelo usuário, uma saudação, e o dia da semana.. </p>
+  <p align="center">Exercício feito em Java onde exibe no resultado final um nome colocado pelo usuário, o dia da semana e uma saudação.. </p>
   
   <p align="center">Curso <code>Let's Code.</code> </p>
 
