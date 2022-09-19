@@ -1,3 +1,6 @@
+// FERNANDO MACHADO
+// https://github.com/fmachadoweb
+// Curso Let's Code
 
 import java.time.LocalDateTime;
 import java.time.LocalDate;
